@@ -1,5 +1,5 @@
 <h1 align="center">Hallo, ich heiße Khushi!</h1>
-<h3 align="center">A passionate BTech student from India</h3>
+<h3 align="center">A passionate tech student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaira-knight&label=Profile%20Views&color=09099a&style=flat" alt="kaira-knight" /> </p>
 
