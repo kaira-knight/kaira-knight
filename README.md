@@ -3,11 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaira-knight&label=Profile%20Views&color=09099a&style=flat" alt="kaira-knight" /> </p>
 
-- %% I’m currently working on **campulse**
+- %% I’m currently working on **ZenLvl**: A gamified habit tracker app as a part of Personal backend learning project.
+
+- %% My latest project is **CamPulse**: An event calendar app designed for your campus by Team BluBug.
 
 - %% I’m currently learning **MERN stack!**
 
-- %% How to reach me **khushisinha.sit.23@gmail.com**
+- %% How to reach me? **khushisinha.sit.23@gmail.com**
 
 - %% Fun fact: **I'm multi-lingual!**
 
