@@ -23,6 +23,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaira-knight&show_icons=true&theme=dracula&title_color=f3f3f7&text_color=e9e9f1&bg_color=000000&locale=en&layout=compact" alt="kaira-knight" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaira-knight&show_icons=true&theme=tokyonight&title_color=e9eaf1&text_color=ffffff&bg_color=000000&cache_seconds=1800&locale=en" alt="kaira-knight" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaira-knight&theme=highcontrast" alt="kaira-knight" /></p>
